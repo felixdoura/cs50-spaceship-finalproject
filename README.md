@@ -1,5 +1,5 @@
 # Felix Doura - Spaceship Game
-#### Video Demo:  <URL HERE>
+#### Video Demo:  [<URL HERE>](https://www.youtube.com/watch?v=YY4YiWow5bM)
 #### Description:
 
 Well, first of all, I would like to thank the staff of CS50 for this course, the EDX platform in which I learned about the course, my family and friends.
